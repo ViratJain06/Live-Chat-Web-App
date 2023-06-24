@@ -13,7 +13,7 @@ Chat Dashboard--
 Live Chatting--
 ![Screenshot 2023-06-25 000943](https://github.com/ViratJain06/Live-Chat-Web-App/assets/117646340/582ccd42-ddb9-4390-b3b1-8fe2b47fa829)
 
-Steps to Start the App locally🪜
+Steps to Start the App locally
 - Install the Public Dependencies
   - make sure you are in public directory.
   - run following command
