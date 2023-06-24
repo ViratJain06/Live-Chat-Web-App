@@ -14,22 +14,19 @@ Live Chatting--
 ![Screenshot 2023-06-25 000943](https://github.com/ViratJain06/Live-Chat-Web-App/assets/117646340/582ccd42-ddb9-4390-b3b1-8fe2b47fa829)
 
 Steps to Start the App locally🪜
-Install the Public Dependencies
+- Install the Public Dependencies
+  - make sure you are in public directory.
+  - run following command
+     npm install
 
-make sure you are in public directory.
-run following command
-npm install
-Install the Server Dependencies
+- Install the Server Dependencies
+  - make sure you are in Server directory.
+  - run following command
+    npm install
+    
+- In the Server Directory there's a .env file. Change the value of mongodb inside the file. Set the value as your mongodb connection url.
 
-make sure you are in Server directory.
-run following command
-npm install
-In the Server Directory there's a .env file. Change the value of mongodb inside the file. Set the value as your mongodb connection url.
-
-Run server by running following command (before this, make sure you are in server directory)
-
-npm start
-Run application by running following command (before this, make sure you are in public directory )
-
-npm start
-Happy Chatting!!
+- Run server by running following command (before this, make sure you are in src directory)
+  npm start
+  
+- Happy Chatting!!
